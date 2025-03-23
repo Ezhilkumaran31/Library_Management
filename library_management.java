@@ -28,7 +28,7 @@ class Member {
     int memberId;
     String name, membershipType;
     
-    // Default constructor
+
     public Member() {}
     
     public void displayMember() {
